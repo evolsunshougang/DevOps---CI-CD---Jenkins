@@ -1,5 +1,7 @@
 # DevOps---CI-CD---Jenkins
 
+[转载]：(https://www.cnblogs.com/aftree/p/9202627.html)
+
 Jenkins 是一款流行的开源持续集成（Continuous Integration）工具，广泛用于项目开发，具有自动化构建、测试和部署等功能。本文以 CentOS7 环境为例，总结了 Jenkins 的安装与配置、邮件功能使用，并接入阿里巴巴的著名开源项目 fastjson，以此演示 Java 项目（SVN+Maven）中 FindBugs/CheckStyle/PMD 等常用插件的使用、单元测试及其覆盖率报告等，力求实战性强。
 
 ## 1 安装 Jenkins
